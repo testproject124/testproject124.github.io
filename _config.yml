@@ -7,9 +7,9 @@ twitter: Arr0way
 twitter_username: Arr0way
 gauges_id:
 google_analytics_id:
-production_url: https://highon.coffee
-repository: https://github.com/Arr0way/arr0way.github.io.git
-url: https://highon.coffee
+production_url: https://testproject124.github.io
+repository: https://github.com/testproject124/testproject124.github.io
+url: https://testproject124.github.io
 plugins:
   - jekyll-sitemap
 
